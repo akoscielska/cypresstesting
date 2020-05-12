@@ -1,0 +1,22 @@
+{
+  "name": "cypresstesting",
+  "version": "1.0.0",
+  "description": "testAutomation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akoscielska/cypresstesting.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/akoscielska/cypresstesting/issues"
+  },
+  "homepage": "https://github.com/akoscielska/cypresstesting#readme",
+  "devDependencies": {
+    "cypress": "^4.5.0"
+  }
+}
